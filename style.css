@@ -1,0 +1,18 @@
+h5{
+    margin-top: 0;
+}
+.uk-width-auto{
+    margin: 20px;
+}
+.uk-width-expand h3{
+    font-size: 35px;
+}
+.uk-card-footer{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    
+}
