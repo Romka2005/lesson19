@@ -16,3 +16,17 @@ h5{
     justify-content: space-between;
     
 }
+@media (max-width:730px) {
+    .container{
+        display: block;
+        margin: auto;
+    }
+    .uk-flex{
+        margin: 80px auto;
+        width: 90%;
+        display: flex;
+    }
+    h1{
+        text-align: center;
+    }
+}
